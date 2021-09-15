@@ -1,12 +1,10 @@
 # Sinitsyn Ualdzislau
 ## Contact information
-___
 * **E-mail**: vladsinicyn2000@gmail.com
 * **Phone**: +375-(33)-356-16-97
 * **LinkedIn**: [Uladzislau Sinitsyn](https://www.linkedin.com/in/uladzislau-sinitsyn-6bbbb6201/)
 * **Git**: [Stalins Cookie](https://github.com/StalinsCookie)
 ## A little about yourself
-___
 I am 21 years old and I am graduating from the university, majoring in Software-Engineer-Economist.\
 I can note the distinctive features in myself, such as:
 * **Sociability**
@@ -16,7 +14,6 @@ I can note the distinctive features in myself, such as:
 
 In the future I want to bring my life together with the IT sphere, for further development .
 ## Education
-___
 [**_Agrarian Economic College in Gomel_**](http://ggaek.by)\
 September 2015 - June 2019\
 IT software
@@ -25,19 +22,16 @@ IT software
 September 2019 - February 2022\
 Information Systems and Technologies
 ## Numeracy
-___
 * **JS** - elementary
 * **HTML/CSS** - basic
 * **SQL** - advanced
 * **С#** - basic
 * **VBA** - basic
 ## Code example
-___
 ```
 return root * root == sq ? (root + 1) * (root + 1) : -1;
 ```
 ## Languages
-___
 * **Russian** - native
 * **Belarusian** - native
 * **English** - elementary/pre-intermediate
