@@ -1,1 +1,1 @@
-https://StalinsCookie/rsschool-cv/cv
+https://StalinsCookie.github.io/rsschool-cv/cv
