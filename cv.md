@@ -27,10 +27,14 @@ Information Systems and Technologies
 * **SQL** - advanced
 * **С#** - basic
 * **VBA** - basic
+
+
 ## Code example
 ```
 return root * root == sq ? (root + 1) * (root + 1) : -1;
 ```
+
+
 ## Languages
 * **Russian** - native
 * **Belarusian** - native
